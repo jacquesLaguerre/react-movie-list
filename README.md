@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React movie
+
+Happy halloween! 
+
+see a demo at [https://horror-movies-jbl.web.app/](https://horror-movies-jbl.web.app/)
+
+## To run locally
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
